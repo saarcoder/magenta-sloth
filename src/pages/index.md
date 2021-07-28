@@ -7,7 +7,7 @@ sections:
     content: |
       ****
     actions:
-      - label: Sei auch Du dabei
+      - label: Sei auch Du dabei!
         url: /about
         style: primary
     align: center
