@@ -458,11 +458,14 @@ sections:
 
           Email: thomasmschulz@googlemail.com
       - title: Folgen
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+        content: >
+          [Youtube](https://www.youtube.com/)
+
+          [Medium](https://medium.com/)
+
+          [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
+
+          [Twitter](https://twitter.com/home)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
