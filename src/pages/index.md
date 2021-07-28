@@ -469,7 +469,7 @@ sections:
     background_color: none
 seo:
   title: Attac Saar
-  description: The preview of the Event theme
+  description: Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
   extra:
     - name: 'og:type'
       value: website
