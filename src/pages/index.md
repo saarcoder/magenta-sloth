@@ -16,6 +16,7 @@ sections:
     background_image: images/kolumbien.jpg
     background_image_opacity: 15
     background_image_size: cover
+    background_image_position: center top
   - type: grid_section
     grid_items:
       - title: 2 Days
