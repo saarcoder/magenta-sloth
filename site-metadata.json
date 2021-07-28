@@ -5,7 +5,6 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "logo": "images/logo.svg",
         "logo_alt": "Event logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
