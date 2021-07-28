@@ -456,10 +456,7 @@ sections:
 
           Tel. 0157-74186546
 
-
           thomasmschulz@googlemail.com
-
-          **Time:** 9:30 AM to 3:30 PM
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
