@@ -16,12 +16,7 @@
                 "style": "link"
             },
             {
-                "label": "Impressum",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
-                "label": "Neues",
+                "label": "Aktuell",
                 "url": "/new-page",
                 "style": "link",
                 "has_icon": false,
@@ -30,6 +25,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Impressum",
+                "url": "/sponsorship",
+                "style": "link"
             },
             {
                 "label": "Unterstützen",
@@ -58,7 +58,7 @@
         "has_secondary_nav": false,
         "has_tertiary_nav": false,
         "has_social": false,
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "Layoutvorlage für Attac Saar"
     },
     "title": "Attac-Saar",
     "domain": "https://magenta-sloth-100f7.netlify.app"

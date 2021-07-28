@@ -2,11 +2,12 @@
 title: Startseite
 sections:
   - type: hero_section
-    title: Inspire. Create. Build.
-    subtitle: Conference for Creative People
-    content: '**April 14 - 16, 2021**'
+    title: Attac Saar
+    subtitle: Eine andere Welt ist möglich.
+    content: |
+      **Werde Teil der Veränderung!**
     actions:
-      - label: Dabei sein!
+      - label: Dabei sein
         url: /about
         style: primary
     align: center
@@ -212,31 +213,41 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Watch Favorite Talks From Past Events
-    subtitle: '2020'
+    title: Veranstaltungen und Hintergründe
+    subtitle: '2018'
     features:
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+      - title: Die Wachstumsmaschine
+        content: >
+          Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
+          Wohlstand und ein besseres Leben, sondern sprengt die ökologischen
+          Grenzen der Erde und macht sie unbewohnbar.
+
+          Ein grundlegender sozial-ökologischer Wandel ist nicht nur notwendig,
+          sondern durch eine ressourcenschonende Kreislaufwirtschaft auch
+          möglich.
+
+
+          Der am 20. August 2018 veröffentlichte Attac-Clip erklärt das
+          anschaulich.
+
+
+          www.jenseits-des-wachstums.de
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube.com/embed/v6SNGTCtIL8" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: right
         media_width: sixty
-      - title: 'Um, its about your JavaScript...'
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
+      - title: Her mit der Demokratie!
+        content: "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube.com/embed/Dgga1RJh7fI" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: left
         media_width: sixty
     feature_padding_vert: large
@@ -447,16 +458,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Addresse
-        content: |
-          Haus der Umwelt
-
-          Evangelisch-Kirch-Str. 8
-
-          66111 Saarbrücken
-
-          Tel.: 0157-74186546
-
-          Email: thomasmschulz@googlemail.com
+        content: "Haus der Umwelt\n\nEvangelisch-Kirch-Str. 8\n\n66111 Saarbrücken\n\n***\n\n### **Treffen**\n\nErster Mittwoch im Monat, 18:30h\n\nHaus der Umwelt\_\n"
       - title: Folgen
         content: >
           [Youtube](https://www.youtube.com/channel/UCIEi4NIAMhAMeBg_jBC\_2Tg/videos)
