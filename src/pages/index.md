@@ -110,11 +110,13 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       - title: Technology Discussion Rooms for All Attendees
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Die bundesweite Attac-AG "genug für alle" hat einen gezeichneten
+          Erklärfilm "Wir brauchen ein bedingungsloses Grundeinkommen"
+          produziert. In knapp vier Minuten stellt er dar, was ein
+          bedingunsloses Grundeinkommen wäre, dass es alle Formen der
+          Produktivität anerkennt und die Gesellschaft und die Arbeit zum Nutzen
+          aller verändert.
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
