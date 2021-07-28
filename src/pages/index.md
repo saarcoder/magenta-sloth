@@ -55,8 +55,9 @@ sections:
   - type: features_section
     title: Werde Teil der Veränderung
     features:
-      - content: |
-          Hintergünde verstehen. Projekte unterstützen. Neue Impulse setzen.
+      - content: >
+          ###### Hintergünde verstehen. Projekte unterstützen. Neue Impulse
+          setzen.
         align: center
     feature_padding_vert: medium
     align: center
