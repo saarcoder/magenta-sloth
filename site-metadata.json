@@ -50,7 +50,8 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ]
+        ],
+        "logo": "images/logo-50-100.jpg"
     },
     "footer": {
         "has_primary_nav": false,
