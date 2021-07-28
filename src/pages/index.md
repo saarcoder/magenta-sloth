@@ -40,7 +40,9 @@ sections:
         image_width: twenty-five
       - title: Demokratie
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: >
+          Für eine gerechte Gestaltung der Globalisierung und friedliches
+          Miteinander. Gegen Antisemitismus und rechtsradikales Gedankengut!
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
