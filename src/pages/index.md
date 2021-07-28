@@ -20,7 +20,7 @@ sections:
     background_image_position: center top
   - type: grid_section
     grid_items:
-      - title: 1 Welt
+      - title: Eine Welt
         title_align: left
         content: >
           Die Welt wächst zusammen, gleichzeitig wächst die Kluft zwischen Arm
