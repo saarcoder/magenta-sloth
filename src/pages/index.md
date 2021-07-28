@@ -459,16 +459,13 @@ sections:
           Email: thomasmschulz@googlemail.com
       - title: Folgen
         content: >
-          [Youtube](https://www.youtube.com/)
-
-
-          [Medium](https://medium.com/)
+          [Youtube](https://www.youtube.com/channel/UCIEi4NIAMhAMeBg_jBC\_2Tg/videos)
 
 
           [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
 
 
-          [Twitter](https://twitter.com/home)
+          [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
