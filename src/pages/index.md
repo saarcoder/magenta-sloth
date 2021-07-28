@@ -111,7 +111,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: Bedingungsloses Grundeinkommen
+      - title: Für ein bedingungsloses Grundeinkommen!
         content: >
           Die bundesweite Attac-AG **Genug für alle** hat einen gezeichneten
           Erklärfilm **Wir brauchen ein bedingungsloses Grundeinkommen**
