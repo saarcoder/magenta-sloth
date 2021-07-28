@@ -248,7 +248,6 @@ sections:
     background_color: none
   - type: features_section
     title: Aktionen
-    subtitle: '2018'
     features:
       - title: Die Wachstumsmaschine
         content: >
