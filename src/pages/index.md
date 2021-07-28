@@ -238,7 +238,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Veranstaltungen und Hintergründe
+    title: Aktionen
     subtitle: '2018'
     features:
       - title: Die Wachstumsmaschine
