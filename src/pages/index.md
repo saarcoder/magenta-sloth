@@ -213,7 +213,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: Veranstaltungen und
     subtitle: '2020'
     features:
       - title: Die Wachstumsmaschine
