@@ -111,8 +111,8 @@ sections:
           allowfullscreen></iframe>
       - title: Bedingungsloses Grundeinkommen
         content: >
-          Die bundesweite Attac-AG "Genug für alle" hat einen gezeichneten
-          Erklärfilm "Wir brauchen ein bedingungsloses Grundeinkommen"
+          Die bundesweite Attac-AG **Genug für alle** hat einen gezeichneten
+          Erklärfilm **Wir brauchen ein bedingungsloses Grundeinkommen**
           produziert. In knapp vier Minuten stellt er dar, was ein
           bedingunsloses Grundeinkommen wäre, dass es alle Formen der
           Produktivität anerkennt und die Gesellschaft und die Arbeit zum Nutzen
