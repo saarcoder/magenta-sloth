@@ -21,7 +21,7 @@
                 "style": "link"
             },
             {
-                "label": "neue Seite",
+                "label": "Neues",
                 "url": "/new-page",
                 "style": "link",
                 "has_icon": false,
