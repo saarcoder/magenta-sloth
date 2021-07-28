@@ -454,9 +454,9 @@ sections:
 
           66111 Saarbrücken
 
-          Tel. 0157-74186546
+          Tel.: 0157-74186546
 
-          thomasmschulz@googlemail.com
+          Email: thomasmschulz@googlemail.com
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
