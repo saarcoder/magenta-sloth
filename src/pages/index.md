@@ -32,7 +32,9 @@ sections:
         image: images/globalisierung.png
       - title: 2 Tracks
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: >
+          Attac kämpft für Gleichberechtigung und gegen patriarchale Strukturen
+          in Gesellschaft und Staat.
         content_align: left
         image_alt: Section item 2 icon
         image_position: left
