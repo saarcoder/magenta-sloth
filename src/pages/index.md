@@ -93,6 +93,12 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/v6SNGTCtIL8" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       - title: Technology Discussion Rooms for All Attendees
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
