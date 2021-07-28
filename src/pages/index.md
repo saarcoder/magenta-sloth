@@ -84,7 +84,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: High-quality talks from field experts followed by Q&As
+      - title: Die Wachstumsmaschine
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
