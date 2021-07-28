@@ -5,7 +5,7 @@ sections:
     title: Attac Saar
     subtitle: Eine andere Welt ist möglich.
     content: |
-      **weil es Alternativen gibt.**
+      **Für ein anderes Saarland**
     actions:
       - label: Dabei sein!
         url: /about
