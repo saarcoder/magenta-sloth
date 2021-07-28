@@ -20,7 +20,7 @@ sections:
     background_image_position: center top
   - type: grid_section
     grid_items:
-      - title: 2 Days
+      - title: 1 Welt
         title_align: left
         content: >-
           Attend a two-track and two days conference on all things Jamstack,
