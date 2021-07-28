@@ -449,10 +449,14 @@ sections:
       - title: Address
         content: |
           Haus der Umwelt
+
           Evangelisch-Kirch-Str. 8
+
           66111 Saarbrücken
 
           Tel. 0157-74186546
+
+
           thomasmschulz@googlemail.com
 
           **Time:** 9:30 AM to 3:30 PM
