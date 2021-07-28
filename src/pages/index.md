@@ -217,10 +217,21 @@ sections:
     subtitle: '2020'
     features:
       - title: Die Wachstumsmaschine
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+        content: >
+          Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
+          Wohlstand und ein besseres Leben, sondern sprengt die ökologischen
+          Grenzen der Erde und macht sie unbewohnbar.
+
+          Ein grundlegender sozial-ökologischer Wandel ist nicht nur notwendig,
+          sondern durch eine ressourcenschonende Kreislaufwirtschaft auch
+          möglich.
+
+
+          Der am 20. August 2018 veröffentlichte Attac-Clip erklärt das
+          anschaulich.
+
+
+          www.jenseits-des-wachstums.de
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/v6SNGTCtIL8" title="YouTube video
