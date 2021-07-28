@@ -27,7 +27,20 @@
             }
         ],
         "has_anncmnt": false,
-        "title": "Veranstaltungen"
+        "title": "Veranstaltungen",
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "footer": {
         "has_primary_nav": false,
