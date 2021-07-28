@@ -16,7 +16,7 @@
                 "style": "link"
             },
             {
-                "label": "Neues",
+                "label": "Aktuell",
                 "url": "/new-page",
                 "style": "link",
                 "has_icon": false,
