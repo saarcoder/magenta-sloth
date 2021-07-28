@@ -85,7 +85,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: Grenzenloses Wachstum?
+      - title: Immer weiter wachsen?
         content: >
           Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
           Wohlstand und ein besseres Leben, sondern sprengt die ökologischen
