@@ -59,9 +59,7 @@ sections:
   - type: features_section
     title: Sei Teil der Veränderung
     features:
-      - content: |
-          Hintergünde verstehen. Projekte unterstützen. Neue Impulse setzen.
-        align: center
+      - align: center
     feature_padding_vert: medium
     align: center
     padding_top: medium
