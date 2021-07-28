@@ -30,7 +30,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image: images/globalisierung.png
-      - title: 2 Tracks
+      - title: Gender
         title_align: left
         content: >
           Attac kämpft für Gleichberechtigung und gegen patriarchale Strukturen
