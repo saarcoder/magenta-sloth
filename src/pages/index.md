@@ -7,7 +7,7 @@ sections:
     content: |
       **Sei ein Teil der Veränderung!**
     actions:
-      - label: Dabei sein!
+      - label: Dabei sein
         url: /about
         style: primary
     align: center
