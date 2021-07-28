@@ -250,30 +250,6 @@ sections:
   - type: features_section
     title: Aktionen
     features:
-      - title: Die Wachstumsmaschine
-        content: >
-          Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
-          Wohlstand und ein besseres Leben, sondern sprengt die ökologischen
-          Grenzen der Erde und macht sie unbewohnbar.
-
-          Ein grundlegender sozial-ökologischer Wandel ist nicht nur notwendig,
-          sondern durch eine ressourcenschonende Kreislaufwirtschaft auch
-          möglich.
-
-
-          Der am 20. August 2018 veröffentlichte Attac-Clip erklärt das
-          anschaulich.
-
-
-          www.jenseits-des-wachstums.de
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/v6SNGTCtIL8" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: right
-        media_width: sixty
       - title: Her mit der Demokratie!
         content: "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
         video_embed_html: >-
