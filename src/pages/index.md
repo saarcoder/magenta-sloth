@@ -53,7 +53,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Hintergründe verstehen. Veränderung vorantrei
+    title: Hintergründe verstehen. Veränderung anstoßen.
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
