@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Startseite
 sections:
   - type: hero_section
     title: Inspire. Create. Build.
@@ -13,9 +13,10 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/hero-background.jpg
+    background_image: images/kolumbien.jpg
     background_image_opacity: 15
     background_image_size: cover
+    background_image_position: center top
   - type: grid_section
     grid_items:
       - title: 2 Days
@@ -445,20 +446,26 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     grid_items:
-      - title: Address
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
+      - title: Addresse
+        content: |
+          Haus der Umwelt
 
-          **Time:** 9:30 AM to 3:30 PM
-      - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+          Evangelisch-Kirch-Str. 8
+
+          66111 Saarbrücken
+
+          Tel.: 0157-74186546
+
+          Email: thomasmschulz@googlemail.com
+      - title: Folgen
+        content: >
+          [Youtube](https://www.youtube.com/channel/UCIEi4NIAMhAMeBg_jBC\_2Tg/videos)
+
+
+          [Facebook](https://www.facebook.com/Attac-Saar-wwwattac-saarde-159229390805900/)
+
+
+          [Twitter](https://twitter.com/hashtag/attacsaar?src=hashtag_click)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
