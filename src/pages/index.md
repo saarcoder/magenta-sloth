@@ -3,7 +3,7 @@ title: Startseite
 sections:
   - type: hero_section
     title: Attac Saar
-    subtitle: Attac Saar
+    subtitle: Eine
     content: |
       **Für ein anderes Saarland und eine bessere Welt**
     actions:
