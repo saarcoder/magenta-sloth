@@ -67,7 +67,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Einfach mitmachen!
+      - title: Sei Teil der Veränderung!
         content: >
           Im globalisierungskritschen Netzwerk Attac engagieren sich Menschen
           aller Kontinente für eine soziale, gerechte, solidarische,
