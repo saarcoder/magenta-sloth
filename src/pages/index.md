@@ -230,10 +230,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Her mit der Demokratie!
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
+        content: "Attac besetzt Paulskirche\n\n[#Chemnitz](https://www.youtube.com/hashtag/chemnitz)\_[#HermitderDemokratie](https://www.youtube.com/hashtag/hermitderdemokratie)\n\nAm 15. September, dem internationalen Tag der Demokratie, haben Aktivist\\*innen von Attac die Frankfurter Paulskirche besetzt. Denn die Demokratie ist an vielen Stellen in größter Gefahr, wie nicht erst die\nEreignisse in [#Chemnitz](https://www.youtube.com/hashtag/chemnitz) deutlich machen. Wir wollen mit der Besetzung eine breite öffentliche Debatte über den Zustand der Demokratie anstoßen.\n\nwww.attac.de/her-mit-der-demokratie\n\n"
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/Dgga1RJh7fI" title="YouTube video
