@@ -26,7 +26,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "title": "Veranstaltungen"
     },
     "footer": {
         "has_primary_nav": false,
