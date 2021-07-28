@@ -457,7 +457,7 @@ sections:
           Tel.: 0157-74186546
 
           Email: thomasmschulz@googlemail.com
-      - title: Follow Us
+      - title: Folgen
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
           [Medium](https://medium.com/)<br/>
