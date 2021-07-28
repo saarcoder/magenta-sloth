@@ -468,7 +468,7 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Stackbit Event Theme
+  title: Attac Saar
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
