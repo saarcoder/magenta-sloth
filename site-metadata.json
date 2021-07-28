@@ -27,7 +27,7 @@
             },
             {
                 "label": "neue Seite",
-                "url": "#new-page",
+                "url": "/new-page",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
