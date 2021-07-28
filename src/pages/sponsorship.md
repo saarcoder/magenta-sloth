@@ -1,5 +1,5 @@
 ---
-title: Sponsorship
+title: Unterstützen Sie uns!
 seo:
   title: Sponsorship
   description: This is the sponsorship page
