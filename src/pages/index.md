@@ -458,7 +458,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Addresse
-        content: "Haus der Umwelt\n\nEvangelisch-Kirch-Str. 8\n\n66111 Saarbrücken\n\n***\n\n# **Treffen:**\n\nErster Mittwoch im Monat, 18:30h\n\nHaus der Umwelt\_\n"
+        content: "Haus der Umwelt\n\nEvangelisch-Kirch-Str. 8\n\n66111 Saarbrücken\n\n***\n\n### **Treffen:**\n\nErster Mittwoch im Monat, 18:30h\n\nHaus der Umwelt\_\n"
       - title: Folgen
         content: >
           [Youtube](https://www.youtube.com/channel/UCIEi4NIAMhAMeBg_jBC\_2Tg/videos)
