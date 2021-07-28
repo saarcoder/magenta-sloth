@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Start
 sections:
   - type: hero_section
     title: Inspire. Create. Build.
