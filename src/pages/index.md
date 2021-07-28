@@ -57,7 +57,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Sei Teil der Veränderung
+    title: Hintergünde verstehen. Projekte unterstützen. Neue Impulse setzen.
     features:
       - align: center
     feature_padding_vert: medium
