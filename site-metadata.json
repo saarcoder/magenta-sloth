@@ -21,11 +21,6 @@
                 "style": "link"
             },
             {
-                "label": "Tickets",
-                "url": "thank-you",
-                "style": "primary"
-            },
-            {
                 "label": "neue Seite",
                 "url": "/new-page",
                 "style": "link",
@@ -35,6 +30,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Tickets",
+                "url": "thank-you",
+                "style": "primary"
             }
         ],
         "has_anncmnt": false,
