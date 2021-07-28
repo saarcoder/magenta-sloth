@@ -74,6 +74,12 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/TZRqjd4ReY0" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       - title: High-quality talks from field experts followed by Q&As
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
