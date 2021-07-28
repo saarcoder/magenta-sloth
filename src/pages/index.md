@@ -115,7 +115,6 @@ sections:
           elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
           semper.
-        image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
