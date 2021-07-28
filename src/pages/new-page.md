@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: neue Seite
 seo:
   title: ''
   description: ''
