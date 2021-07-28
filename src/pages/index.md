@@ -37,6 +37,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
+        image: images/feminismus.png
       - title: Demokratie
         title_align: left
         content: >
