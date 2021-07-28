@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "Impressum",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
                 "label": "Neues",
                 "url": "/new-page",
                 "style": "link",
@@ -30,6 +25,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Impressum",
+                "url": "/sponsorship",
+                "style": "link"
             },
             {
                 "label": "Unterstützen",
