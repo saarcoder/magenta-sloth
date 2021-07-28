@@ -55,9 +55,8 @@ sections:
   - type: features_section
     title: Werde Teil der Veränderung.
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: |
+          Hintergünde verstehen. Projekte unterstützen. Neue Impulse setzen.
         align: center
     feature_padding_vert: medium
     align: center
