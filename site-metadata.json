@@ -11,7 +11,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About",
+                "label": "Über uns",
                 "url": "/about",
                 "style": "link"
             },
