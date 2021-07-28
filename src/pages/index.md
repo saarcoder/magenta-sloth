@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Attac Saar
     subtitle: Eine andere Welt ist möglich.
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **Jetzt Mitglied werden**
     actions:
       - label: Dabei sein!
         url: /about
