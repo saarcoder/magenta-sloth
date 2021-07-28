@@ -478,7 +478,7 @@ seo:
       value: Attac Saar
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
       keyName: property
     - name: 'og:image'
       value: images/feature-3.jpg
