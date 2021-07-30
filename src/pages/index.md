@@ -413,6 +413,7 @@ sections:
         image_align: left
         image_position: left
         image_width: fourty
+        image: images/successful-sycamore.gif
       - image_alt: Netzwerk Entwicklungspolitik
         image_align: left
         image: images/logo-nes.png
