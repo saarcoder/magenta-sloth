@@ -478,7 +478,7 @@ sections:
   - type: cta_section
     title: Ein anderes Saarland ist möglich.
     actions:
-      - label: Get tickets
+      - label: Aktionen bei uns
         url: /thank-you
         style: primary
         has_icon: true
