@@ -53,7 +53,7 @@ sections:
         image: images/rainy-chili.png
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: small
     enable_cards: false
     align: center
     background_color: secondary
