@@ -409,7 +409,7 @@ sections:
     subtitle: Regionale Bündnisse
     align: center
     grid_items:
-      - image_alt: Stackbit logo
+      - image_alt: Flüchtlingsrat
         image_align: left
         image: images/cropped-cropped-cropped-logograu.gif
         image_position: left
