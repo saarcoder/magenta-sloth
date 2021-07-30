@@ -374,11 +374,11 @@ sections:
 
           ### Im Austausch bleiben
 
-          den Bedarf nach Wandel als Auftrag verstehen
+          und eigene Ziele bestimmen
 
           *   Verständnis vertiefen
-          *   Mitreden, mitgestalten
           *   Wissen, was geplant ist
+          *   *   Mitreden und mitgestalten
         content_align: left
         actions:
           - label: Kontakt
