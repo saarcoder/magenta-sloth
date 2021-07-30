@@ -460,7 +460,7 @@ sections:
         title_align: left
         content: "Wie kann die Wirtschaft dem Gemeinwohl dienen? Finanz-Transaktionssteuer, soziale Gerechtigkeit, Umweltschutz. Brauchen wir ein neues Finanzsystem?\_\n\nSR2-Sendung vom 31.08.2011 mit\_**Christian Felber**\n"
         content_align: left
-      - title: What payment types do you accept?
+      - title: '"Fortschritt" kann töten!'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
