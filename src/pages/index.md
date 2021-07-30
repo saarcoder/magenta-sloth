@@ -396,7 +396,9 @@ sections:
 
           den Änderungsbedarf als Auftrag sehen
 
-          *   Ziele bestimmen
+          *   Chancen und Handlungsmöglichkeiten bestimmen
+          *   Gemeinsam Aktionen planen und durchführen
+          *   Andere inspirieren
         content_align: left
         actions:
           - label: Kontakt
