@@ -443,14 +443,7 @@ sections:
           Alternative: Europa befindet sich im Wirtschaftskrieg. Wie entstand
           dieses unumstößlich scheinende System?
 
-          Das Experimentierfeld Lateinamerika und die Analysen des Philosophen
-          Michel Foucault machen Dynamik und Reichweite der neoliberalen
-          Umstrukturierungen unserer Gesellschaften deutlich und erhellen die
-          heutigen Finanzkrisen. Zum Vorschein kommt dabei ein
-          Machtergreifungsmodell, das Politik, Gesellschaft und Individuen seit
-          Jahrzehnten formt und konditioniert, ein ökonomischer Putsch. Juristen
-          sprechen von organisierter Kriminalität und von der Mittäterschaft der
-          Politik.
+          WDR5, Sendung vom 26.08.2012
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
