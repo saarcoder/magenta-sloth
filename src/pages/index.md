@@ -378,7 +378,7 @@ sections:
 
           *   Verständnis vertiefen
           *   Wissen, was geplant ist
-          *   *   Mitreden und mitgestalten
+          *   Mitreden, mitgestalten
         content_align: left
         actions:
           - label: Kontakt
