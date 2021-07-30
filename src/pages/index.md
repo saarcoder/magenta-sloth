@@ -372,14 +372,13 @@ sections:
         content: |
           ***
 
-          ### Besser vernetzt sein
+          ### Im Austausch bleiben
 
-          heißt Teil des Wandels sein
+          den Bedarf nach Wandel als Auftrag verstehen
 
-          *   Im Austausch bleiben
           *   Verständnis vertiefen
-          *   Wissen, was geplant ist
           *   Mitreden, mitgestalten
+          *   Wissen, was geplant ist
         content_align: left
         actions:
           - label: Kontakt
