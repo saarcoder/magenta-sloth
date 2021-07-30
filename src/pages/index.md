@@ -345,7 +345,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Raus aus der Meckerecke. Aktiv werden.
-    subtitle: Aktiv werden
+    subtitle: Mitmachen
     grid_items:
       - title: Reinschnupperer
         subtitle: Erster Mittwoch im Monat
