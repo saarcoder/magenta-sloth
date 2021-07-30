@@ -268,17 +268,12 @@ sections:
         media_width: sixty
       - title: Wohnen ist Gemeingut
         subtitle: Vonovia enteignen!
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Aktive aus Köln protestierten im Rahmen der Attac-Kampagne "Wohnen ist
+          Gemeingut" gegen den Wohnungskonzern "Vonovia" vor zwei seiner Kölner
+          Büros. Unter dem Motto "Keine Sonne für Vonovia" beklebten sie
+          Schaufensterscheiben und forderten die Demokratisierung der
+          Wohnungswirtschaft.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
