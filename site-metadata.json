@@ -31,11 +31,6 @@
                 "style": "link"
             },
             {
-                "label": "Unterstützen",
-                "url": "thank-you",
-                "style": "primary"
-            },
-            {
                 "label": "Themen",
                 "url": "/clone-page",
                 "style": "link",
@@ -45,6 +40,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Unterstützen",
+                "url": "thank-you",
+                "style": "primary"
             }
         ],
         "has_anncmnt": false,
