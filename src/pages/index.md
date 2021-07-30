@@ -267,7 +267,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Wohnen ist Gemeingut
-        subtitle: lorem-ipsum
+        subtitle: Vonovia enteignen°
         content: >-
           ## Lorem ipsum
 
