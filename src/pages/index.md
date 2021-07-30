@@ -348,7 +348,7 @@ sections:
     subtitle: Pass for the event
     grid_items:
       - title: Reinschnuppern
-        subtitle: April 14
+        subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
           ---
