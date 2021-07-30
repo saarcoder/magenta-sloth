@@ -432,7 +432,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Gut zu wissen.
-    subtitle: Unsere Analysen
+    subtitle: Tiefergehende Analysen
     grid_items:
       - title: Was hinter den Finanzkrisen steckt
         title_align: left
