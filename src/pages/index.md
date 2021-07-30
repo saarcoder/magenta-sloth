@@ -372,13 +372,13 @@ sections:
         content: |
           ***
 
-          ### Besser vernetzen
+          ### Besser vernetzt sein
 
-          Teil des Wandels sein
+          heißt Teil des Wandels sein
 
           *   Im Austausch bleiben
-          *   Wissen, was geplant ist
           *   Verständnis vertiefen
+          *   Wissen, was geplant ist
           *   Mitreden, mitgestalten
         content_align: left
         actions:
