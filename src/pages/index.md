@@ -443,6 +443,8 @@ sections:
           Alternative: Europa befindet sich im Wirtschaftskrieg. Wie entstand
           dieses unumstößlich scheinende System?
 
+
+
           WDR5, Sendung vom 26.08.2012
         content_align: left
       - title: What about accommodation for attendees?
