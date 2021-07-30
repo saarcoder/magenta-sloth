@@ -434,7 +434,7 @@ sections:
     title: Gut zu wissen.
     subtitle: Unsere Analysen
     grid_items:
-      - title: How can I get to the venue?
+      - title: Was hinter den Finanzkrisen steckt
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
