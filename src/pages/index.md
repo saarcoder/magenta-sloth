@@ -297,6 +297,7 @@ sections:
         align: left
         type: feature
         title: ' Europa geht anders.'
+        image: images/_titom_austerite.jpg
     feature_padding_vert: large
     align: center
     padding_top: large
