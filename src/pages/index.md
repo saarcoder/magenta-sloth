@@ -370,16 +370,15 @@ sections:
       - title: Mitdenker
         subtitle: Erster Mittwoch im Monat
         title_align: left
-        content: |+
+        content: |
           ***
 
           ### Besser vernetzt
 
-          Im regelmäßigen Austausch bleiben.
+          Im regelmäßigen Austausch bleiben
 
           *   Wissen, was geplant ist
-          *   Die Agenda mitentscheiden
-
+          *   Mitreden
         content_align: left
         actions:
           - label: Kontakt
