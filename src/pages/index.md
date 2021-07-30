@@ -396,7 +396,7 @@ sections:
 
           den Wandel aktiv fördern
 
-          *   Gemeinsam Forderungen bestimmen
+          *   Gemeinsame Ziele finden
           *   Aktionen planen und durchführen
           *   Andere inspirieren
         content_align: left
