@@ -447,7 +447,7 @@ sections:
 
           WDR5, Sendung vom 26.08.2012
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: "Die Globalisierungsfalle. Der Angriff auf\_Demokratie und Wohlstand"
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
