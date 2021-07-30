@@ -289,17 +289,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: "## **Verhindern wir die 'Troika für Alle' -**\_**Nein zum Wettbewerbspakt!**\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: top
