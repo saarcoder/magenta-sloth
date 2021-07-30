@@ -429,7 +429,7 @@ sections:
     grid_gap_vert: medium
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
   - type: grid_section
     title: Frequently Asked Questions
     subtitle: Unsere Vision
