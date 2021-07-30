@@ -367,7 +367,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Student
-        subtitle: April 14 - 15
+        subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
           ---
