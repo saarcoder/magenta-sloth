@@ -412,8 +412,7 @@ sections:
       - image_alt: Stackbit logo
         image_align: center
         image: images/fluechtlingsrat.gif
-      - image: images/netlify.svg
-        image_alt: Netlify logo
+      - image_alt: Netlify logo
         image_align: center
       - image: images/github.svg
         image_alt: GitHub logo
