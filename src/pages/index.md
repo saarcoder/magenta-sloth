@@ -344,7 +344,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Raus aus der Meckerecke. ür Mitstreiter.
+    title: Raus aus der Meckerecke. Aktiv werden.
     subtitle: Aktiv werden
     grid_items:
       - title: Reinschnuppern
