@@ -431,7 +431,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: Frequently Asked Questions
+    title: Gut zu wissen.
     subtitle: Unsere Vision
     grid_items:
       - title: How can I get to the venue?
