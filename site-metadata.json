@@ -51,7 +51,7 @@
                 "type": "action"
             }
         ],
-        "logo": "images/logo-50-100.jpg"
+        "logo": "images/logo-ncs.png"
     },
     "footer": {
         "has_primary_nav": false,
