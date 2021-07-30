@@ -462,11 +462,7 @@ sections:
         content_align: left
       - title: '"Fortschritt" kann töten!'
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: "Ist unsere Führungsschicht ideologisch verblendet? Versteht sie volkswirtschaftliche Zusammenhänge nicht mehr? Was bleibt von unserer Demokratie?\_\n\n"
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
