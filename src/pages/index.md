@@ -306,6 +306,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        title: ' Europa geht anders.'
     feature_padding_vert: large
     align: center
     padding_top: large
