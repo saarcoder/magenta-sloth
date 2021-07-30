@@ -271,6 +271,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    subtitle: 'Aus den '
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
