@@ -387,7 +387,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Berufstätig
+      - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
