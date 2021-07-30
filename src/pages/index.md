@@ -344,7 +344,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Pricing
+    title: Mitgliedschaft
     subtitle: Pass for the event
     grid_items:
       - title: Base Camp Ticket
