@@ -306,7 +306,7 @@ sections:
     subtitle: Was wir tun.
   - type: grid_section
     title: Was die Medien schreiben.
-    subtitle: Previous event attendees
+    subtitle: Attac in der Presse
     grid_items:
       - content: >-
           I've had a wonderful few days at Event Conf. So grateful to have been
