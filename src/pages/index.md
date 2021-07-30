@@ -412,6 +412,7 @@ sections:
       - image_alt: Stackbit logo
         image_align: center
         image: images/cropped-cropped-cropped-logograu.gif
+        image_position: right
       - image_alt: Netlify logo
         image_align: center
         image: images/logo-nes.png
