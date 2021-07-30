@@ -345,7 +345,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Mitgliedschaft
-    subtitle: Aktiv werden.
+    subtitle: Aktiv werden
     grid_items:
       - title: Reinschnuppern
         subtitle: Erster Mittwoch im Monat
