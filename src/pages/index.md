@@ -66,6 +66,7 @@ sections:
     padding_top: large
     padding_bottom: none
     background_color: none
+    subtitle: Wandel braucht Wissen.
   - type: features_section
     features:
       - title: Sei Teil der Veränderung!
