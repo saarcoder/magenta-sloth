@@ -415,7 +415,7 @@ sections:
         image_position: left
         image_width: fourty
       - image_alt: Netzwerk Entwicklungspolitik
-        image_align: center
+        image_align: left
         image: images/logo-nes.png
         image_position: left
       - image_alt: GitHub logo
