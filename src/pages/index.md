@@ -63,7 +63,7 @@ sections:
       - align: center
     feature_padding_vert: medium
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: none
     background_color: none
   - type: features_section
