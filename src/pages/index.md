@@ -266,7 +266,7 @@ sections:
           allowfullscreen></iframe>
         media_position: left
         media_width: sixty
-      - title: lorem-ipsum
+      - title: Wohnen ist Gemeingut
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
