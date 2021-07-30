@@ -421,7 +421,7 @@ sections:
     subtitle: Regionale Bündnisse
     align: center
     grid_items:
-      - image_alt: Friedensnetz Saar
+      - image_alt: Netzwerk Entwicklungspolitik im Saarland e.V.
         image_align: left
         image_position: left
         image_width: sixty
