@@ -414,7 +414,7 @@ sections:
         image: images/cropped-cropped-cropped-logograu.gif
         image_position: left
         image_width: fourty
-      - image_alt: Netlify logo
+      - image_alt: Netzwerk Entwicklungspolitik
         image_align: center
         image: images/logo-nes.png
         image_position: right
