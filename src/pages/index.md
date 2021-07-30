@@ -389,17 +389,14 @@ sections:
       - title: Mitstreiter
         subtitle: Erster Mittwoch im Monat
         title_align: left
-        content: |-
-          ---
-          ### $139
+        content: |
+          ***
 
-          HD quality for Base camp and Summit tracks
+          ### Mitglied werden
 
-          * Interactive sessions with speakers
-          * Conference Stickers & more sent to your home
-          * Q&A with speakers
-          * Certificates on Workshops
-          * Technology discussion rooms
+          den Änderungsbedarf als Auftrag sehen
+
+          *   Ziele bestimmen
         content_align: left
         actions:
           - label: Kontakt
