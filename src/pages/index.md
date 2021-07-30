@@ -370,16 +370,16 @@ sections:
       - title: Interessierter
         subtitle: Erster Mittwoch im Monat
         title_align: left
-        content: |-
-          ---
-          ### $49
+        content: |+
+          ***
 
-          Watch Only access to Summit & Base Camp Tracks
+          ### Besser vernetzt
 
-          * Conference Stickers
-          * Technology discussion rooms
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
+          Im regelmäßigen Austausch bleiben.
+
+          *   Wissen, was geplant ist
+          *   Die Agenda mitentscheiden
+
         content_align: left
         actions:
           - label: Kontakt
