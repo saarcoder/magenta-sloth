@@ -456,7 +456,7 @@ sections:
 
           SR-Podcast mit **Hans Peter Martin **vom** **8.12.1996
         content_align: left
-      - title: Can I get a refund on my tickets?
+      - title: 50 Vorschläge für eine gerechtere Welt
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
