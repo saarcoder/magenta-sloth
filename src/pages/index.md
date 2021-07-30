@@ -422,6 +422,7 @@ sections:
       - image_alt: GitHub logo
         image_align: right
         image_position: right
+        image: images/graceful-owl.gif
       - image_alt: Sticker Mule logo
         image_align: center
     grid_cols: four
