@@ -367,7 +367,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Student
+      - title: Interessierter
         subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |-
