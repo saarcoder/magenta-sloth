@@ -156,6 +156,7 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
+    title: Morgen gehört uns
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
