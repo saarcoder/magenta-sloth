@@ -476,7 +476,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: Ein anderes Saarland ist möglich.
     actions:
       - label: Get tickets
         url: /thank-you
