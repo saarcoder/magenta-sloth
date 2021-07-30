@@ -418,6 +418,7 @@ sections:
       - image_alt: GitHub logo
         image_align: center
         image: images/friedensnetz-saar-191.gif
+        image_position: right
       - image_alt: Sticker Mule logo
         image_align: center
     grid_cols: four
