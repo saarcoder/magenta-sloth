@@ -431,7 +431,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: Gut zu wissen.
+    title: Mehr wissen.
     subtitle: Tiefergehende Analysen
     grid_items:
       - title: Was hinter den Finanzkrisen steckt
