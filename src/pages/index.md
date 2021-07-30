@@ -253,6 +253,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
+    padding_top: medium
   - type: features_section
     title: Attac in Aktion
     features:
