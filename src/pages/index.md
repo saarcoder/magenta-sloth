@@ -143,7 +143,7 @@ sections:
   - type: cta_section
     title: >-
       "Wenn man die mörderische Unvernunft dieser Weltordnung sieht, weiß man:
-      Sie muss radikal bekämpft werden."
+      Sie muss radikal bekämpft werden." - Jean Ziegler
     actions:
       - label: Get tickets
         url: /thank-you
