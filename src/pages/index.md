@@ -426,7 +426,7 @@ sections:
         image_width: sixty
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: large
     padding_top: large
     padding_bottom: large
     background_color: none
