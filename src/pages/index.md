@@ -374,7 +374,7 @@ sections:
 
           ### Im Austausch bleiben
 
-          und eigene Ziele bestimmen
+          und eigene Möglichkeiten entdecken
 
           *   Verständnis vertiefen
           *   Wissen, was geplant ist
