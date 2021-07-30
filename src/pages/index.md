@@ -419,7 +419,7 @@ sections:
         image: images/logo-nes.png
         image_position: right
         image_width: sixty
-      - image_alt: GitHub logo
+      - image_alt: Flüchtlingsrat
         image_align: right
         image_position: right
         image: images/graceful-owl.gif
