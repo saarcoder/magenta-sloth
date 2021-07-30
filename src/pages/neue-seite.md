@@ -1,5 +1,5 @@
 ---
-title: Sklaven-los!
+title: Sklavenlos!
 seo:
   title: ''
   description: ''
