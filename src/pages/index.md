@@ -428,7 +428,6 @@ sections:
         image: images/modern-steel.png
       - image_alt: Netzwerk Entwicklungspolitik
         image_align: left
-        image: images/logo-nes.png
         image_position: right
         image_width: sixty
       - image_alt: Saarländischer Flüchtlingsrat
