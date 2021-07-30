@@ -415,8 +415,7 @@ sections:
       - image_alt: Netlify logo
         image_align: center
         image: images/logo-nes.png
-      - image: images/github.svg
-        image_alt: GitHub logo
+      - image_alt: GitHub logo
         image_align: center
       - image: images/sticker-mule.svg
         image_alt: Sticker Mule logo
