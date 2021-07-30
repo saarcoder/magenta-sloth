@@ -424,7 +424,7 @@ sections:
         image_position: right
         image: images/graceful-owl.gif
         image_width: sixty
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: large
