@@ -344,7 +344,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: 'Für Interessierte. '
+    title: Für Interessierte. Für Mitstreiter.
     subtitle: Aktiv werden
     grid_items:
       - title: Reinschnuppern
