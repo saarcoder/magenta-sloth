@@ -367,7 +367,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Mitstreiter
+      - title: Mitdenker
         subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |+
