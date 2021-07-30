@@ -269,6 +269,15 @@ sections:
           allowfullscreen></iframe>
         media_position: left
         media_width: sixty
+      - content: "###### Verhindern wir die 'Troika für Alle' -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n"
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        title: ' Europa geht anders.'
+        image: images/_titom_austerite.jpg
       - title: Wohnen ist Gemeingut
         subtitle: Vonovia enteignen!
         content: >
@@ -289,15 +298,6 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - content: "###### Verhindern wir die 'Troika für Alle' -\_Nein zum Wettbewerbspakt!\n\nDer\_Countdown\_läuft.\_Der Europäische Rat plant im Dezember 2013 einen Beschluss über einen Pakt für „Wettbewerbsfähigkeit und Konvergenz“. Damit soll die Krisenpolitik der Europäischen Union in Griechenland, Spanien oder Portugal auf ganz Europa ausgedehnt werden. Die Politik der Europäischen Union ist erfolglos, sie führt zu Massenarbeitslosigkeit und steigenden Schulden. Statt das neoliberale Rezept zu ändern, wird die Dosis erhöht. Der sogenannte „Wettbewerbspakt“ ist nichts anderes als ein Pakt für Lohndumping, Sozialabbau und Privatisierung.\n"
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        title: ' Europa geht anders.'
-        image: images/_titom_austerite.jpg
     feature_padding_vert: large
     align: center
     padding_top: large
