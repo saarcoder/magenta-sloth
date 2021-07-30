@@ -254,6 +254,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
+    subtitle: Attac sind wir.
   - type: features_section
     title: Attac in Aktion
     features:
