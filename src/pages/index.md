@@ -426,7 +426,7 @@ sections:
         image_position: left
         image_width: sixty
         image: images/modern-steel.png
-      - image_alt: Netzwerk Entwicklungspolitik
+      - image_alt: Friedensnetz Saar
         image_align: left
         image_position: right
         image_width: sixty
