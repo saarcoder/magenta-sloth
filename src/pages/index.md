@@ -289,7 +289,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: CETA und TTI
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
