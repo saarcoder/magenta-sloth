@@ -394,9 +394,9 @@ sections:
 
           ### Mitglied werden
 
-          den Änderungsbedarf als Auftrag sehen
+          den Wandel aktiv fördern
 
-          *   Chancen und Möglichkeiten bestimmen
+          *   Handlungsmöglichkeiten bestimmen
           *   Aktionen planen und durchführen
           *   Andere inspirieren
         content_align: left
