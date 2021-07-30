@@ -344,7 +344,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Für Interessierte. Für Mitstreiter.
+    title: Raus aus der Meckerecke. ür Mitstreiter.
     subtitle: Aktiv werden
     grid_items:
       - title: Reinschnuppern
