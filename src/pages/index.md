@@ -462,7 +462,7 @@ sections:
         content_align: left
       - title: Machtwahn. Wie eine mittelmäßige Führungselite uns zugrunde richtet
         title_align: left
-        content: "Ist unsere Führungsschicht ideologisch verblendet? Versteht sie volkswirtschaftliche Zusammenhänge nicht mehr? Was bleibt von unserer Demokratie?\_\n\n"
+        content: "Ist unsere Führungsschicht ideologisch verblendet? Versteht sie volkswirtschaftliche Zusammenhänge nicht mehr? Was bleibt von unserer Demokratie?\_\n\nSR2-Podcast vom 13.07.2011 mit\_**Albrecht Müller**\n"
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
