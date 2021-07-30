@@ -5,7 +5,7 @@ sections:
     title: Danke!
     subtitle: Danke für's Reinschauen in die Seitenvorlage!
     actions:
-      - label: Back to homepage
+      - label: Zurück zur Startseite
         url: /
         style: primary
         has_icon: true
