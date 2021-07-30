@@ -372,13 +372,14 @@ sections:
         content: |
           ***
 
-          ### Besser vernetzt
+          ### Besser vernetzen
 
-          Im regelmäßigen Austausch bleiben
+          Teil des Wandels sein
 
+          *   Im Austausch bleiben
           *   Wissen, was geplant ist
-          *   Zusammenhänge besser verstehen
-          *   Mitreden
+          *   Verständnis vertiefen
+          *   Mitreden, mitgestalten
         content_align: left
         actions:
           - label: Kontakt
