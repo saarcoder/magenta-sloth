@@ -456,8 +456,7 @@ sections:
           dieses unumstößlich scheinende System?
 
 
-
-          WDR5, Sendung vom 26.08.2012
+          WDR5-Sendung vom 26.08.2012
         content_align: left
       - title: "Die Globalisierungsfalle. Der Angriff auf\_Demokratie und Wohlstand"
         title_align: left
