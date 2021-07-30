@@ -449,11 +449,12 @@ sections:
         content_align: left
       - title: "Die Globalisierungsfalle. Der Angriff auf\_Demokratie und Wohlstand"
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Werden die Standards in Umweltschutz, sozialer Sicherheit ausgehebelt,
+          die Löhne gedrückt? Was bleibt von unserer Volksvertretung?
+
+
+          SR-Podcast mit **Hans Peter Martin **vom** **8.12.1996
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left
