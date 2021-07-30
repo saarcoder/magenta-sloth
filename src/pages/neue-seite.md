@@ -1,5 +1,5 @@
 ---
-title: neue Seite
+title: Sklaven-los!
 seo:
   title: ''
   description: ''
