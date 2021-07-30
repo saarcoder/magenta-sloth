@@ -142,7 +142,7 @@ sections:
     background_color: none
   - type: cta_section
     actions:
-      - label: Get tickets
+      - label: Alle Infos
         url: /thank-you
         style: primary
         has_icon: true
