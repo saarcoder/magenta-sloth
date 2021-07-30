@@ -355,7 +355,7 @@ sections:
 
           ### Ohne Anmeldung...
 
-          einfach zu den Veranstaltungen kommen
+          einfach mal zu unseren Veranstaltungen kommen
 
           *   Aktuelle Aktionen
           *   Jour fixe-Treffen (monatlich)
