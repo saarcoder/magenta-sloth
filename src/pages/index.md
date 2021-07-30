@@ -289,8 +289,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-      - title: CETA und TTIP
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
