@@ -427,7 +427,7 @@ sections:
         image_width: sixty
         image: images/modern-steel.png
       - image_alt: Friedensnetz Saar
-        image_align: right
+        image_align: center
         image_position: right
         image_width: sixty
         image: images/maroon-octopus.gif
