@@ -405,7 +405,7 @@ sections:
     background_image: images/pricing-background.jpg
     background_image_opacity: 10
   - type: grid_section
-    title: Gut vernetzt.
+    title: Immer gut vernetzt.
     subtitle: Regionale Bündnisse
     align: center
     grid_items:
