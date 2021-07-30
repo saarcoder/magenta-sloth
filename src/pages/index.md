@@ -138,7 +138,7 @@ sections:
           allowfullscreen></iframe>
     feature_padding_vert: large
     align: center
-    padding_top: none
+    padding_top: large
     background_color: none
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
