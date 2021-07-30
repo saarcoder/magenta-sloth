@@ -416,7 +416,7 @@ sections:
         image_align: center
         image: images/logo-nes.png
       - image_alt: GitHub logo
-        image_align: center
+        image_align: right
         image: images/friedensnetz-saar-191.gif
         image_position: right
       - image_alt: Sticker Mule logo
