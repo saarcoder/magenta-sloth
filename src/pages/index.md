@@ -142,8 +142,8 @@ sections:
     background_color: none
   - type: cta_section
     title: >-
-      Wenn man die mörderische Unvernunft dieser Weltordnung sieht,weiß man: Sie
-      muss radikal bekämpft werden.
+      "Wenn man die mörderische Unvernunft dieser Weltordnung sieht, weiß man:
+      Sie muss radikal bekämpft werden."
     actions:
       - label: Get tickets
         url: /thank-you
