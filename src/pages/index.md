@@ -417,7 +417,7 @@ sections:
       - image_alt: Netzwerk Entwicklungspolitik
         image_align: center
         image: images/logo-nes.png
-        image_position: right
+        image_position: left
       - image_alt: GitHub logo
         image_align: right
         image: images/friedensnetz-saar-191.gif
