@@ -412,7 +412,7 @@ sections:
       - image_alt: Friedensnetz Saar
         image_align: left
         image_position: left
-        image_width: fourty
+        image_width: sixty
         image: images/successful-sycamore.gif
       - image_alt: Netzwerk Entwicklungspolitik
         image_align: left
