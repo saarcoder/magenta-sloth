@@ -378,6 +378,7 @@ sections:
           Im regelmäßigen Austausch bleiben
 
           *   Wissen, was geplant ist
+          *   Zusammenhänge besser verstehen
           *   Mitreden
         content_align: left
         actions:
