@@ -423,6 +423,7 @@ sections:
         image_align: right
         image_position: right
         image: images/graceful-owl.gif
+        image_width: sixty
       - image_alt: Sticker Mule logo
         image_align: center
     grid_cols: four
