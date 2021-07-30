@@ -350,16 +350,16 @@ sections:
       - title: Reinschnuppern
         subtitle: Erster Mittwoch im Monat
         title_align: left
-        content: |
+        content: |+
           ***
 
           ### Ohne Anmeldung
 
-          Watch only access for Base Camp track
+          Einfach zu den Veranstaltungen kommen
 
-          *   Conference Stickers
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
+          *   Aktuelle Aktionen
+          *   Jour fixe
+
         content_align: left
         actions:
           - label: Registration
