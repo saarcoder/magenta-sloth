@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Danke!
-    subtitle: Thank you for testing the Event theme!
+    subtitle: Danke für's Reinschauen in die Seitenvorlage!
     actions:
       - label: Back to homepage
         url: /
