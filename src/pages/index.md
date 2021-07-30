@@ -410,7 +410,7 @@ sections:
     align: center
     grid_items:
       - image_alt: Stackbit logo
-        image_align: center
+        image_align: left
         image: images/cropped-cropped-cropped-logograu.gif
         image_position: right
       - image_alt: Netlify logo
