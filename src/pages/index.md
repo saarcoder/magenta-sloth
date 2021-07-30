@@ -347,7 +347,7 @@ sections:
     title: Raus aus der Meckerecke. Aktiv werden.
     subtitle: Aktiv werden
     grid_items:
-      - title: Reinschnuppern
+      - title: Reinschnupperer
         subtitle: Erster Mittwoch im Monat
         title_align: left
         content: |+
