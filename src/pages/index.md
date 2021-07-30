@@ -436,11 +436,21 @@ sections:
     grid_items:
       - title: Was hinter den Finanzkrisen steckt
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Gezielte Spekulationsattacken auf ganze Volkswirtschaften,
+          Finanzagenturen, die Regierungen in die Knie zwingen, und ohnmächtige
+          Politiker, die gebetsmühlenartig wiederholen, es gäbe keine
+          Alternative: Europa befindet sich im Wirtschaftskrieg. Wie entstand
+          dieses unumstößlich scheinende System?
+
+          Das Experimentierfeld Lateinamerika und die Analysen des Philosophen
+          Michel Foucault machen Dynamik und Reichweite der neoliberalen
+          Umstrukturierungen unserer Gesellschaften deutlich und erhellen die
+          heutigen Finanzkrisen. Zum Vorschein kommt dabei ein
+          Machtergreifungsmodell, das Politik, Gesellschaft und Individuen seit
+          Jahrzehnten formt und konditioniert, ein ökonomischer Putsch. Juristen
+          sprechen von organisierter Kriminalität und von der Mittäterschaft der
+          Politik.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
