@@ -460,7 +460,7 @@ sections:
         title_align: left
         content: "Wie kann die Wirtschaft dem Gemeinwohl dienen? Finanz-Transaktionssteuer, soziale Gerechtigkeit, Umweltschutz. Brauchen wir ein neues Finanzsystem?\_\n\nSR2-Sendung vom 31.08.2011 mit\_**Christian Felber**\n"
         content_align: left
-      - title: Machtwahn. Wie eine mittelmaessige Fuehrungselite uns zugrunde richtet
+      - title: Machtwahn. Wie eine mittelmäßige Führungselite uns zugrunde richtet
         title_align: left
         content: "Ist unsere Führungsschicht ideologisch verblendet? Versteht sie volkswirtschaftliche Zusammenhänge nicht mehr? Was bleibt von unserer Demokratie?\_\n\n"
         content_align: left
