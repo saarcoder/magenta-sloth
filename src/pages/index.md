@@ -382,7 +382,7 @@ sections:
           * Fringilla diam magnis libero lacinia
         content_align: left
         actions:
-          - label: Registration
+          - label: Kontakt
             url: /thank-you
             style: primary
         actions_align: left
