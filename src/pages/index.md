@@ -458,11 +458,7 @@ sections:
         content_align: left
       - title: 50 Vorschläge für eine gerechtere Welt
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: "Wie kann die Wirtschaft dem Gemeinwohl dienen? Finanz-Transaktionssteuer, soziale Gerechtigkeit, Umweltschutz. Brauchen wir ein neues Finanzsystem?\_\n\nSR2-Sendung vom 31.08.2011 mit\_**Christian Felber**\n"
         content_align: left
       - title: What payment types do you accept?
         title_align: left
