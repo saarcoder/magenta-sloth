@@ -347,7 +347,7 @@ sections:
     title: Mitgliedschaft
     subtitle: Pass for the event
     grid_items:
-      - title: Base Camp Ticket
+      - title: Reinschnuppern
         subtitle: April 14
         title_align: left
         content: |-
