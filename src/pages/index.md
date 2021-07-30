@@ -406,7 +406,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Netzwerk
-    subtitle: We Are Supported by Awesome Companies
+    subtitle: Regionale Bündnisse
     align: center
     grid_items:
       - image: images/stackbit.svg
