@@ -156,7 +156,7 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
-    title: Morgen gehört uns
+    title: 'Morgen gehört uns. 15. Juli 2021, 18 Uhr, Filmhaus SB'
   - type: grid_section
     title: Unsere Mitstreiter
     grid_items:
