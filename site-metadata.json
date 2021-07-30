@@ -26,11 +26,6 @@
                 "type": "action"
             },
             {
-                "label": "Impressum",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Themen",
                 "url": "/clone-page",
                 "style": "link",
@@ -40,6 +35,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Impressum",
+                "url": "/style-guide",
+                "style": "link"
             },
             {
                 "label": "Unterstützen",
