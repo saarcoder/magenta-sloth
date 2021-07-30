@@ -411,7 +411,6 @@ sections:
     grid_items:
       - image_alt: Flüchtlingsrat
         image_align: left
-        image: images/cropped-cropped-cropped-logograu.gif
         image_position: left
         image_width: fourty
       - image_alt: Netzwerk Entwicklungspolitik
