@@ -409,7 +409,7 @@ sections:
     subtitle: Regionale Bündnisse
     align: center
     grid_items:
-      - image_alt: Flüchtlingsrat
+      - image_alt: Friedensnetz Saar
         image_align: left
         image_position: left
         image_width: fourty
