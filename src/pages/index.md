@@ -94,16 +94,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-        actions:
-          - label: Hier klicken
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: Immer weiter wachsen?
         content: >
           Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
