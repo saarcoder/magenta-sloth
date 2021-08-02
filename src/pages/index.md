@@ -31,6 +31,16 @@ sections:
         image_position: left
         image_width: twenty-five
         image: images/globalisierung.png
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: Gender
         title_align: left
         content: >
