@@ -32,7 +32,7 @@ Steueroasen austrocknen!Für gerechte Steuern und eine Umverteilung gesellschaft
 
 Soziale Sicherheit, Bildung, Gesundheit, Kultur müssen der Profitmaximierung entzogen und öffentlich organisiert und kontrolliert sein!
 
-## \*\*Soziale Sicherung/Genug-für-Alle\*\*
+## Soziale Sicherung/Genug-für-Alle
 
 Sozial gerecht ist eine Gesellschaft, die allen Menschen gesellschaftliche Beteiligung und Sicherheit gewährleistet.Dafür Arbeiten wir!
 
