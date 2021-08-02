@@ -546,7 +546,7 @@ seo:
     - name: 'twitter:title'
       value: Attac Saar
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: Vorschau des Layouts
     - name: 'twitter:image'
       value: images/_titom_austerite.jpg
       relativeUrl: true
