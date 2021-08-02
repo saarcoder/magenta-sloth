@@ -538,7 +538,7 @@ seo:
       value: Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: images/_titom_austerite.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
