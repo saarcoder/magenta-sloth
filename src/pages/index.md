@@ -31,16 +31,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image: images/globalisierung.png
-        actions:
-          - label: Sklavenlos
-            url: /aktuell
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: Gender
         title_align: left
         content: >
