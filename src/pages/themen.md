@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Unsere Themen
 seo:
   title: ''
   description: ''
