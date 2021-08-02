@@ -15,4 +15,10 @@ sections:
     padding_bottom: large
     background_color: none
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
