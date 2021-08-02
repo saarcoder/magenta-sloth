@@ -36,7 +36,7 @@ sections:
             url: /aktuell
             style: primary
             has_icon: false
-            icon: youtube
+            icon: arrow-left
             icon_position: right
             new_window: false
             no_follow: false
