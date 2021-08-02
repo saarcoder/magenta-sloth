@@ -464,7 +464,7 @@ sections:
           die Löhne gedrückt? Was bleibt von unserer Volksvertretung?
 
 
-          SR-Podcast vom 8.12.1996 mit **Hans Peter Martin **
+          SR-Podcast vom 8.12.1996 mit \*\*Hans Peter Martin\*\*
         content_align: left
       - title: 50 Vorschläge für eine gerechtere Welt
         title_align: left
