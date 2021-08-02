@@ -16,7 +16,7 @@
             },
             {
                 "label": "Aktuell",
-                "url": "/neue-seite",
+                "url": "/aktuell",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
