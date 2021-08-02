@@ -548,7 +548,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: images/_titom_austerite.jpg
       relativeUrl: true
 template: advanced
 ---
