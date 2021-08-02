@@ -31,6 +31,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image: images/globalisierung.png
+        actions: []
       - title: Gender
         title_align: left
         content: >
@@ -94,6 +95,16 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
+        actions:
+          - label: Mitmachen
+            url: 'https://www.attac.de/aktiv-werden/mitglied-werden'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: Immer weiter wachsen?
         content: >
           Permanentes Wirtschaftswachstum erfüllt nicht das Versprechen auf
@@ -464,7 +475,7 @@ sections:
           die Löhne gedrückt? Was bleibt von unserer Volksvertretung?
 
 
-          SR-Podcast vom 8.12.1996 mit \*\*Hans Peter Martin\*\*
+          SR-Podcast vom 8.12.1996 mit **Hans Peter Martin**
         content_align: left
       - title: 50 Vorschläge für eine gerechtere Welt
         title_align: left
@@ -538,17 +549,17 @@ seo:
       value: Attac Saar. Ein Knoten im internationalen Attac-Netzwerk.
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: images/_titom_austerite.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: Attac Saar
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: Vorschau des Layouts
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: images/_titom_austerite.jpg
       relativeUrl: true
 template: advanced
 ---
