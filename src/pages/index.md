@@ -544,7 +544,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: Attac Saar
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
