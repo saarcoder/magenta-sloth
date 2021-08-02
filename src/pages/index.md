@@ -98,7 +98,7 @@ sections:
         actions:
           - label: Mitmachen
             url: 'https://www.attac.de/aktiv-werden/mitglied-werden'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
