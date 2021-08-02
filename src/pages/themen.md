@@ -8,9 +8,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+## **Globalisierung**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](images/robust-iron.png)Die Welt wächst zusammen, gleichzeitig wächst auch die Kluft zwischen Arm und Reich – hier und weltweit.Wir sagen: Internationale Solidarität von unten - Eine andere Welt ist möglich!
 
-- Lorem ipsum
-- dolor sit amet
