@@ -32,7 +32,7 @@ sections:
         image_width: twenty-five
         image: images/globalisierung.png
         actions:
-          - label: lorem-ipsum
+          - label: Sklavenlos
             url: '#'
             style: link
             has_icon: false
