@@ -95,7 +95,7 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
         actions:
-          - label: lorem-ipsum
+          - label: Hier klicken
             url: '#'
             style: link
             has_icon: false
