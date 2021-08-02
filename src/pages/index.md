@@ -33,7 +33,7 @@ sections:
         image: images/globalisierung.png
         actions:
           - label: Sklavenlos
-            url: '#'
+            url: /aktuell
             style: link
             has_icon: false
             icon: arrow-left
