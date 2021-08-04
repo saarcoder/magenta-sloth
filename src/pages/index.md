@@ -14,8 +14,8 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/kolumbien.jpg
-    background_image_opacity: 15
+    background_image: images/header_striped_cpr.jpg
+    background_image_opacity: 20
     background_image_size: cover
     background_image_position: center top
     has_border: false
