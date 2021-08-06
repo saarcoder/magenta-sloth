@@ -29,7 +29,9 @@ export default class Page extends React.Component {
             		</div>
             	</div>
             </article>
-            
+            <div>
+            <h2>I</h2>
+            </div>
             </Layout>
         );
     }
