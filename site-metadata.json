@@ -72,5 +72,6 @@
         "content": "Layoutvorlage Homepage Attac-Saar"
     },
     "title": "Attac-Saar",
-    "domain": "https://magenta-sloth-100f7.netlify.app"
+    "domain": "https://magenta-sloth-100f7.netlify.app",
+    "favicon": "images/favicon.png"
 }
