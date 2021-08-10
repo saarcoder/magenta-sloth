@@ -1,22 +1,22 @@
-# ✨ magenta-sloth ✨
+# ✨ attac-layout ✨
 
-<img src="https://themes.stackbit.com/images/event-demo-1024x768.png" width="600">
+<img src="https://www.saarcode.de/images/_titom_austerite.jpg" width="650">
 
-This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
+[Gatsby](https://gatsbyjs.com) Seite mit Git als [CMS](https://en.wikipedia.org/wiki/Content_management_system). Mit [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in unter einer Minute erzeugt.
 
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/event-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
+Seiten nach [anderen Vorlagen](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/event-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) wie dieser erzeugen:
 
 <details>
-        <summary>🎨 &nbsp;<strong>Look</strong></summary>
+        <summary>🎨 &nbsp;<strong>Einfach ausprobieren</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/exto-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A portfolio theme with a blog</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/personal-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Consulting and freelance</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/ampersand-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Medium inspired blogging theme</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/exto-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Eine Portfolio-Vorlage mit Blog</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/personal-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Consulting und Freelancing</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/ampersand-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Blogging-Themen a la Medium</a></li>
                 </ul>
 </details>
 
 <details>
-        <summary>✏️ &nbsp;<strong>CMS</strong></summary>
+        <summary>✏️ &nbsp;<strong>CMS-Optionen</strong></summary>
         <ul>
                 <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
                 <li><a href="https://app.stackbit.com/create?cms=forestry&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Forestry</a></li>
@@ -25,7 +25,7 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 </details>
 
 <details>
-        <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
+        <summary>⚙️ &nbsp;<strong>Static Site-Generatoren</strong></summary>
         <ul>
                 <li><a href="https://app.stackbit.com/create?ssg=nextjs&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Next.js</a></li>
                 <li><a href="https://app.stackbit.com/create?ssg=hugo&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Hugo</a></li>
@@ -33,33 +33,31 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
                 </ul>
 </details>
 
-## Develop Locally
+## Lokal entwickeln
 
-1. Install [Node.js and npm](https://nodejs.org/en/)
+1.  Installation [Node.js and npm](https://nodejs.org/en/)
 
-1. Install npm dependencies:
+1.  Npm dependencies installieren:
 
         npm install
 
-
-
-1. Start the Gatsby local development server:
+1.  Den lokalen Gatsby-Entwicklungsserver starten:
 
         npm run develop
 
-1. Open [http://localhost:8000/](http://localhost:8000/) in the browser
+1.  Im Browser [http://localhost:8000/](http://localhost:8000/) aufrufen
 
-1. 🎉
+1.  🎉
 
-## Editing Content
+## Content editieren
 
-To start editing your site, you can edit the included Markdown files.
+Zum Editieren einfach die existierenden Markdown-Dateien bearbeiten.
 
-Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
+Alternativ: einfach den Content on-page editieren mit [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
 
 [![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
-Here's a few resources to get you started:
+Hier noch ein paar nützliche Ressourcen für den Anfang (auf Englisch):
 
 - 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
 - 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
@@ -67,8 +65,4 @@ Here's a few resources to get you started:
 - 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
 - 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
 
-If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
-
-## Colophon
-
-Generated at `2021-07-28T07:03:10.951Z` by Stackbit version `0.3.53`.
+Für weitere Unterstützung die [Stackbit-Supportseite aufrufen](https://stackbit.link/project-readme-support).
