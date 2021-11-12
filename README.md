@@ -66,3 +66,5 @@ Hier noch ein paar nützliche Ressourcen für den Anfang (auf Englisch):
 - 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
 
 Für weitere Unterstützung die [Stackbit-Supportseite aufrufen](https://stackbit.link/project-readme-support).
+
+lightweight web editor access test
